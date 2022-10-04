@@ -15,11 +15,11 @@ gantt
     title A Gantt Diagram
 
     section The Beginning of Communism
-    Task A           :a1, 2014-01-01, 30d
+    Task A      :2022-10-01  , 30d
     section Communism 2
-    Task B      :2014-01-12  , 12d
+    Task B      :2022-11-01  , 30d
     section Communism 3
-    Task C      :2014-01-12  , 12d
+    Task C      :2022-12-01  , 30d
     section Communism 4
-    Task D      :2014-01-12  , 12d
+    Task D      :2023-01-01  , 30d
 ```
