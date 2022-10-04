@@ -17,5 +17,5 @@ WE ARE THE ONE N ONLY, AIO (All in One) as some of our teammates gone vanish, so
 ![朱](https://avatars.githubusercontent.com/u/113969916?s=400&v=4)
 ![林](https://avatars.githubusercontent.com/u/113971432?v=4)
 ![謝](https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos)
-![劉](https://avatars.githubusercontent.com/u/113969916?s=400&v=4)
+![劉](https://avatars.githubusercontent.com/u/113969928?v=4)
 ![袁](https://avatars.githubusercontent.com/u/113969919?v=4)
