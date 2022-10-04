@@ -10,3 +10,6 @@
 ***
 
 
+<h2> About Communism⚡:</h2>
+
+WE ARE THE ONE N ONLY, AIO (All in One) as some of our teammates gone vanish, some of them love [furry](https://hazbinhotel.fandom.com/wiki/Loona), some of them [Terraria](https://store.steampowered.com/app/105600/Terraria/?l=tchinese).
