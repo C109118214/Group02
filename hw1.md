@@ -1,5 +1,6 @@
 ### 作業一
 顯示在小組的github 上，請列出專案的組長與組員之姓名，個別組員的任務，專題題目，內容，甘特圖與PERT/CPM圖
+### Discord Bot
 ```mermaid
 gantt
     title The Schedule of Communism
