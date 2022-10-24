@@ -16,8 +16,8 @@
 
 3.高使用性，使用者訓練時間短
 
-![image](擷取.png)
-![image](ㄐㄐ.png)
+![image](擷取.PNG)
+![image](ㄐㄐ.PNG)
 
 
 
