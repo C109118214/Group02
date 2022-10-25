@@ -56,3 +56,5 @@ digraph hierarchy {
                 {rank=same;ITManager Teacher1 Teacher2}  // Put them on the same level
 }
 ```
+
+![image](pertpicture.png)
