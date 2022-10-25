@@ -31,7 +31,7 @@
 
 四、
 
-![image](ㄐㄐ.PNG)
+![image](usecasediagram.png)
 
 五、
 
