@@ -16,6 +16,8 @@
 
 3.高使用性，使用者訓練時間短
 
+二、
+
 ![image](擷取.PNG)
 
 
@@ -27,5 +29,10 @@
 4. 使用者利用用戶管理以進行隊伍分配
 5. 使用者輸入預設指令將得到相關的系統回應
 
+四、
 
 ![image](ㄐㄐ.PNG)
+
+五、
+
+[Figma](https://www.figma.com/file/7ouNBdzTyTabC7607W8j0c/%F0%9F%91%BE-Discord-(Community)?node-id=0%3A1)
