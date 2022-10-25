@@ -3,16 +3,20 @@
 ### Discord Bot
 ```mermaid
 gantt
-    title The Schedule of Communism
+    title Discord Server Robot Vergil
 
-    section The Beginning of Communism
-    Task A      :active,  des1,2022-10-01  , 2022-10-04
-    section Communism 2
-    Task B      :         des2, after des1 , 10d
-    section Communism 3
-    Task C      :         des3, after des2  , 10d
-    section Communism 4
-    Task D      :         des4, after des3  , 10d
+    section Phase 1
+    Fuctions           :         des1,2022-10-01   , 2022-10-10
+    section Phase 2
+    develope           :         des2, after des1  , 10d
+    section Phase 3
+    Coding             :         des3, after des2  , 10d
+    section Phase 4
+    Debuging           :         des4, after des3  , 10d
+    section Phase 5
+    Maintain n Update  :         des5, after des4  , 10d
+    
+
 ```
 
 ```graphviz
@@ -60,4 +64,3 @@ digraph {
     
 }
 ```
-### Critical Path(關鍵路徑):
