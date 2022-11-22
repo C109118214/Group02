@@ -1,2 +1,2 @@
 ![](storyboard1.png)
-![](storyboard2.png)
+![](storyboard2.jpg)
