@@ -1,3 +1,5 @@
+![ERD](png.png)
+
 // Entity: Chatbot
 
 class Chatbot {
