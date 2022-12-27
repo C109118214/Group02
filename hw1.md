@@ -26,7 +26,7 @@
 ### Discord Bot
 ```mermaid
 gantt
-    title Discord Server Robot Vergil
+    title Discord Server Robot BigBrother
 
     section Phase 1
     Fuctions           :         des1,2022-10-01   , 2022-10-10
