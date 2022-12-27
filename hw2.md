@@ -18,7 +18,7 @@
 
 二、
 
-![image](FDD.PNG)
+![image](FDD.png)
 
 
 
