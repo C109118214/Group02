@@ -1,6 +1,6 @@
 #ActivityFlow
 
-![image](ActivityFlow.)
+![image](ActivityFlow.png)
 
 #UML
 
