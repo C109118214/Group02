@@ -4,4 +4,4 @@
 
 #UML
 
-![image](UML.jpg)
+![image](UML.png)
