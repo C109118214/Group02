@@ -18,7 +18,7 @@
 
 二、
 
-![image](擷取.PNG)
+![image](FDD.PNG)
 
 
 
